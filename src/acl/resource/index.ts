@@ -1,0 +1,1 @@
+export { ResourceModel as Resource } from './resource.model';

@@ -1,0 +1,1 @@
+export { PermissionModel as Permission } from './permission.model';
